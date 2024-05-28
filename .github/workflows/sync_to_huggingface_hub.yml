@@ -17,4 +17,4 @@ jobs:
       - name: Push to hub
         env:
           HF_TOKEN: ${{ secrets.HF_TOKEN }}
-        run: git push https://dipannitaray:$HF_TOKEN@huggingface.co/spaces/dipannitaray/0423 main
+        run: git push --force https://dipannitaray:$HF_TOKEN@huggingface.co/spaces/dipannitaray/0423 main
