@@ -1,3 +1,12 @@
+title: '0423'
+emoji: 🏃
+colorFrom: yellow
+colorTo: purple
+sdk: streamlit
+sdk_version: 1.35.0
+app_file: app.py
+pinned: false
+license: apache-2.0
 # Deep-Learning:
 # LSTM:
 Long Short Term Memory Netwok is a deep learning sequencial neural network that allows info to persist
